@@ -1,0 +1,279 @@
+Player: Rohit Sharma
+Age: 36
+Role: Batsman
+Base Price: 2 crore
+Auction: Bought by Mumbai Indians for 16 crore after fierce bidding.
+Career Highlights: Indian captain, most IPL titles as a captain.
+
+Player: Glenn Maxwell
+Age: 35
+Role: All-Rounder
+Base Price: 2 crore
+Auction: Acquired by Royal Challengers Bangalore for 12 crore.
+Career Highlights: Explosive Australian all-rounder, versatile player.
+
+Player: Mohammed Shami
+Age: 34
+Role: Bowler
+Base Price: 1.5 crore
+Auction: Snapped up by Gujarat Titans for 9 crore.
+Career Highlights: India's spearhead fast bowler, swing expert.
+
+Player: Quinton de Kock
+Age: 31
+Role: Wicketkeeper-Batsman
+Base Price: 2 crore
+Auction: Secured by Lucknow Super Giants for 8 crore.
+Career Highlights: South African star, consistent IPL performer.
+
+Player: Ravindra Jadeja
+Age: 35
+Role: All-Rounder
+Base Price: 2 crore
+Auction: Retained by Chennai Super Kings for 16 crore.
+Career Highlights: Premier all-rounder, key to CSK’s success.
+
+Player: Kane Williamson
+Age: 34
+Role: Batsman
+Base Price: 1.5 crore
+Auction: Acquired by Sunrisers Hyderabad for 10 crore.
+Career Highlights: New Zealand captain, known for composure and consistency.
+
+Player: Sam Curran
+Age: 26
+Role: All-Rounder
+Base Price: 2 crore
+Auction: Bought by Punjab Kings for 18 crore after an intense bidding war.
+Career Highlights: Emerging English star, youngest IPL MVP.
+
+Player: Trent Boult
+Age: 35
+Role: Bowler
+Base Price: 1.5 crore
+Auction: Picked up by Rajasthan Royals for 10 crore.
+Career Highlights: Lethal left-arm pacer, impactful powerplay bowler.
+
+Player: Rishabh Pant
+Age: 27
+Role: Wicketkeeper-Batsman
+Base Price: 2 crore
+Auction: Retained by Delhi Capitals for 15 crore.
+Career Highlights: Indian vice-captain, explosive finisher.
+
+Player: Nicholas Pooran
+Age: 29
+Role: Wicketkeeper-Batsman
+Base Price: 1.5 crore
+Auction: Acquired by Lucknow Super Giants for 8 crore.
+Career Highlights: West Indies star, known for hard-hitting abilities.
+
+Player: Faf du Plessis
+Age: 40
+Role: Batsman
+Base Price: 1.5 crore
+Auction: Bought by Royal Challengers Bangalore for 9 crore.
+Career Highlights: South African veteran, brilliant IPL leader.
+
+Player: Babar Azam
+Age: 30
+Role: Batsman
+Base Price: 2 crore
+Auction: Bought by Sunrisers Hyderabad for 14 crore.
+Career Highlights: World-class Pakistani batter, known for elegance.
+
+Player: Axar Patel
+Age: 30
+Role: All-Rounder
+Base Price: 1.5 crore
+Auction: Retained by Delhi Capitals for 12 crore.
+Career Highlights: Reliable all-rounder, key player for India.
+
+Player: Marcus Stoinis
+Age: 35
+Role: All-Rounder
+Base Price: 2 crore
+Auction: Lucknow Super Giants secured him for 10 crore.
+Career Highlights: Australian star, explosive finisher.
+
+Player: Yuzvendra Chahal
+Age: 33
+Role: Bowler
+Base Price: 1.5 crore
+Auction: Picked up by Rajasthan Royals for 8 crore.
+Career Highlights: India's leading T20 spinner.
+
+Player: Deepak Chahar
+Age: 32
+Role: Bowler
+Base Price: 2 crore
+Auction: Bought by Chennai Super Kings for 12 crore.
+Career Highlights: Swing specialist, key IPL performer.
+
+Player: Chris Morris
+Age: 37
+Role: All-Rounder
+Base Price: 2 crore
+Auction: Secured by Rajasthan Royals for 16 crore.
+Career Highlights: Versatile South African all-rounder.
+
+Player: Shikhar Dhawan
+Age: 38
+Role: Batsman
+Base Price: 2 crore
+Auction: Acquired by Punjab Kings for 11 crore.
+Career Highlights: IPL run-machine, consistent opener.
+
+Player: Jason Holder
+Age: 33
+Role: All-Rounder
+Base Price: 1.5 crore
+Auction: Bought by Lucknow Super Giants for 9 crore.
+Career Highlights: West Indies skipper, impactful with both bat and ball.
+
+Player: Kuldeep Yadav
+Age: 29
+Role: Bowler
+Base Price: 1.5 crore
+Auction: Retained by Delhi Capitals for 8 crore.
+Career Highlights: India's left-arm wrist spinner, match-winner. 
+
+Player: Shreyas Iyer
+Age: 29
+Role: Batsman
+Base Price: 2 crore
+Auction: Acquired by Kolkata Knight Riders for 12 crore.
+Career Highlights: Consistent middle-order batter, former Delhi captain.
+
+Player: Andre Russell
+Age: 35
+Role: All-Rounder
+Base Price: 2 crore
+Auction: Retained by Kolkata Knight Riders for 16 crore.
+Career Highlights: Explosive Caribbean all-rounder, match-winner.
+
+Player: Jasprit Bumrah
+Age: 30
+Role: Bowler
+Base Price: 2 crore
+Auction: Retained by Mumbai Indians for 15 crore.
+Career Highlights: India's pace spearhead, death-overs specialist.
+
+Player: Pat Cummins
+Age: 31
+Role: Bowler
+Base Price: 2 crore
+Auction: Acquired by Kolkata Knight Riders for 12 crore.
+Career Highlights: Australian Test captain, sharp fast bowler.
+
+Player: David Warner
+Age: 37
+Role: Batsman
+Base Price: 2 crore
+Auction: Retained by Delhi Capitals for 14 crore.
+Career Highlights: Explosive Australian opener, IPL stalwart.
+
+Player: Hardik Pandya
+Age: 30
+Role: All-Rounder
+Base Price: 2 crore
+Auction: Retained by Gujarat Titans for 17 crore.
+Career Highlights: Indian T20 captain, dynamic finisher.
+
+Player: Shubman Gill
+Age: 25
+Role: Batsman
+Base Price: 2 crore
+Auction: Retained by Gujarat Titans for 15 crore.
+Career Highlights: Rising Indian star, elegant top-order batter.
+
+Player: KL Rahul
+Age: 31
+Role: Wicketkeeper-Batsman
+Base Price: 2 crore
+Auction: Retained by Lucknow Super Giants for 16 crore.
+Career Highlights: Dependable Indian opener, consistent IPL performer.
+
+Player: Rashid Khan
+Age: 26
+Role: Bowler
+Base Price: 2 crore
+Auction: Retained by Gujarat Titans for 15 crore.
+Career Highlights: Afghan spin wizard, T20 game-changer.
+
+Player: Ben Stokes
+Age: 33
+Role: All-Rounder
+Base Price: 2 crore
+Auction: Bought by Chennai Super Kings for 16 crore.
+Career Highlights: England Test captain, clutch performer.
+
+Player: Dinesh Karthik
+Age: 39
+Role: Wicketkeeper-Batsman
+Base Price: 1.5 crore
+Auction: Acquired by Royal Challengers Bangalore for 6 crore.
+Career Highlights: Veteran Indian finisher, IPL’s dependable closer.
+
+Player: Varun Chakravarthy
+Age: 33
+Role: Bowler
+Base Price: 1.5 crore
+Auction: Retained by Kolkata Knight Riders for 8 crore.
+Career Highlights: Mystery spinner, KKR's key bowler.
+
+Player: Cameron Green
+Age: 25
+Role: All-Rounder
+Base Price: 2 crore
+Auction: Bought by Mumbai Indians for 17 crore.
+Career Highlights: Australian young gun, promising future star.
+
+Player: Mayank Agarwal
+Age: 33
+Role: Batsman
+Base Price: 1.5 crore
+Auction: Picked up by Sunrisers Hyderabad for 8 crore.
+Career Highlights: Reliable Indian opener, consistent run-getter.
+
+Player: Umran Malik
+Age: 25
+Role: Bowler
+Base Price: 1.5 crore
+Auction: Retained by Sunrisers Hyderabad for 8 crore.
+Career Highlights: India’s fastest bowler, pace sensation.
+
+Player: Mitchell Marsh
+Age: 32
+Role: All-Rounder
+Base Price: 1.5 crore
+Auction: Bought by Delhi Capitals for 6 crore.
+Career Highlights: Australian all-rounder, known for big hits.
+
+Player: Mohammad Nabi
+Age: 39
+Role: All-Rounder
+Base Price: 1.5 crore
+Auction: Acquired by Kolkata Knight Riders for 5 crore.
+Career Highlights: Afghan veteran, dependable all-rounder.
+
+Player: Ruturaj Gaikwad
+Age: 27
+Role: Batsman
+Base Price: 1.5 crore
+Auction: Retained by Chennai Super Kings for 6 crore.
+Career Highlights: Emerging Indian opener, IPL Orange Cap winner.
+
+Player: T Natarajan
+Age: 33
+Role: Bowler
+Base Price: 1.5 crore
+Auction: Retained by Sunrisers Hyderabad for 6 crore.
+Career Highlights: Left-arm death bowler, India’s yorker specialist.
+
+Player: Sanju Samson
+Age: 30
+Role: Wicketkeeper-Batsman
+Base Price: 2 crore
+Auction: Retained by Rajasthan Royals for 14 crore.
+Career Highlights: Rajasthan Royals captain, consistent performer.

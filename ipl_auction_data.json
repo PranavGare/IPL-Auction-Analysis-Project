@@ -1,0 +1,322 @@
+[
+    {
+        "player_name": "Quinton de Kock",
+        "age": 31,
+        "role": "Wicketkeeper-Batsman",
+        "base_price": "2 crore",
+        "auction_summary": {
+            "team": "Lucknow Super Giants",
+            "bid_amount": "8 crore",
+            "bidding_history": [
+                {"team": "LSG", "bid": "5 crore"},
+                {"team": "MI", "bid": "7 crore"},
+                {"team": "LSG", "bid": "8 crore"}
+            ]
+        },
+        "career_highlights": "South African star, consistent IPL performer."
+    },
+    {
+        "player_name": "Sam Curran",
+        "age": 26,
+        "role": "All-Rounder",
+        "base_price": "2 crore",
+        "auction_summary": {
+            "team": "Punjab Kings",
+            "bid_amount": "18 crore",
+            "bidding_history": [
+                {"team": "PBKS", "bid": "12 crore"},
+                {"team": "MI", "bid": "16 crore"},
+                {"team": "PBKS", "bid": "18 crore"}
+            ]
+        },
+        "career_highlights": "Young English all-rounder, IPL MVP."
+    },
+    {
+        "player_name": "Yuzvendra Chahal",
+        "age": 33,
+        "role": "Bowler",
+        "base_price": "1.5 crore",
+        "auction_summary": {
+            "team": "Rajasthan Royals",
+            "bid_amount": "8 crore",
+            "bidding_history": [
+                {"team": "RR", "bid": "5 crore"},
+                {"team": "KKR", "bid": "6 crore"},
+                {"team": "RR", "bid": "8 crore"}
+            ]
+        },
+        "career_highlights": "India's leading T20 spinner."
+    },
+    {
+        "player_name": "Ravindra Jadeja",
+        "age": 35,
+        "role": "All-Rounder",
+        "base_price": "2 crore",
+        "auction_summary": {
+            "team": "Chennai Super Kings",
+            "bid_amount": "16 crore",
+            "bidding_history": [
+                {"team": "CSK", "bid": "12 crore"},
+                {"team": "RCB", "bid": "15 crore"},
+                {"team": "CSK", "bid": "16 crore"}
+            ]
+        },
+        "career_highlights": "Premier Indian all-rounder, IPL champion."
+    },
+    {
+        "player_name": "Trent Boult",
+        "age": 35,
+        "role": "Bowler",
+        "base_price": "1.5 crore",
+        "auction_summary": {
+            "team": "Rajasthan Royals",
+            "bid_amount": "10 crore",
+            "bidding_history": [
+                {"team": "RR", "bid": "7 crore"},
+                {"team": "GT", "bid": "9 crore"},
+                {"team": "RR", "bid": "10 crore"}
+            ]
+        },
+        "career_highlights": "Lethal left-arm pacer, impactful in powerplays."
+    },
+    {
+        "player_name": "Nicholas Pooran",
+        "age": 29,
+        "role": "Wicketkeeper-Batsman",
+        "base_price": "1.5 crore",
+        "auction_summary": {
+            "team": "Lucknow Super Giants",
+            "bid_amount": "8 crore",
+            "bidding_history": [
+                {"team": "LSG", "bid": "5 crore"},
+                {"team": "MI", "bid": "7 crore"},
+                {"team": "LSG", "bid": "8 crore"}
+            ]
+        },
+        "career_highlights": "Explosive West Indian batter."
+    },
+    {
+        "player_name": "Marcus Stoinis",
+        "age": 35,
+        "role": "All-Rounder",
+        "base_price": "2 crore",
+        "auction_summary": {
+            "team": "Lucknow Super Giants",
+            "bid_amount": "10 crore",
+            "bidding_history": [
+                {"team": "LSG", "bid": "7 crore"},
+                {"team": "DC", "bid": "9 crore"},
+                {"team": "LSG", "bid": "10 crore"}
+            ]
+        },
+        "career_highlights": "Explosive Australian all-rounder."
+    },
+    {
+        "player_name": "Shikhar Dhawan",
+        "age": 38,
+        "role": "Batsman",
+        "base_price": "2 crore",
+        "auction_summary": {
+            "team": "Punjab Kings",
+            "bid_amount": "11 crore",
+            "bidding_history": [
+                {"team": "PBKS", "bid": "9 crore"},
+                {"team": "MI", "bid": "10 crore"},
+                {"team": "PBKS", "bid": "11 crore"}
+            ]
+        },
+        "career_highlights": "IPL veteran, reliable opener."
+    },
+    {
+        "player_name": "Kuldeep Yadav",
+        "age": 29,
+        "role": "Bowler",
+        "base_price": "1.5 crore",
+        "auction_summary": {
+            "team": "Delhi Capitals",
+            "bid_amount": "8 crore",
+            "bidding_history": [
+                {"team": "DC", "bid": "5 crore"},
+                {"team": "RR", "bid": "7 crore"},
+                {"team": "DC", "bid": "8 crore"}
+            ]
+        },
+        "career_highlights": "India's chinaman spinner."
+    },
+    {
+        "player_name": "Rishabh Pant",
+        "age": 27,
+        "role": "Wicketkeeper-Batsman",
+        "base_price": "2 crore",
+        "auction_summary": {
+            "team": "Delhi Capitals",
+            "bid_amount": "15 crore",
+            "bidding_history": [
+                {"team": "DC", "bid": "12 crore"},
+                {"team": "RCB", "bid": "14 crore"},
+                {"team": "DC", "bid": "15 crore"}
+            ]
+        },
+        "career_highlights": "India's star wicketkeeper-batter."
+    },
+    {
+        "player_name": "Faf du Plessis",
+        "age": 40,
+        "role": "Batsman",
+        "base_price": "1.5 crore",
+        "auction_summary": {
+            "team": "Royal Challengers Bangalore",
+            "bid_amount": "9 crore",
+            "bidding_history": [
+                {"team": "RCB", "bid": "7 crore"},
+                {"team": "CSK", "bid": "8 crore"},
+                {"team": "RCB", "bid": "9 crore"}
+            ]
+        },
+        "career_highlights": "Veteran South African batter, proven IPL leader."
+    },
+    {
+        "player_name": "Mohammed Shami",
+        "age": 34,
+        "role": "Bowler",
+        "base_price": "1.5 crore",
+        "auction_summary": {
+            "team": "Gujarat Titans",
+            "bid_amount": "9 crore",
+            "bidding_history": [
+                {"team": "GT", "bid": "5 crore"},
+                {"team": "RR", "bid": "8 crore"},
+                {"team": "GT", "bid": "9 crore"}
+            ]
+        },
+        "career_highlights": "India's top swing bowler."
+    },
+    {
+        "player_name": "Axar Patel",
+        "age": 30,
+        "role": "All-Rounder",
+        "base_price": "1.5 crore",
+        "auction_summary": {
+            "team": "Delhi Capitals",
+            "bid_amount": "12 crore",
+            "bidding_history": [
+                {"team": "DC", "bid": "8 crore"},
+                {"team": "MI", "bid": "10 crore"},
+                {"team": "DC", "bid": "12 crore"}
+            ]
+        },
+        "career_highlights": "Consistent Indian all-rounder."
+    },
+    {
+        "player_name": "Deepak Chahar",
+        "age": 32,
+        "role": "Bowler",
+        "base_price": "2 crore",
+        "auction_summary": {
+            "team": "Chennai Super Kings",
+            "bid_amount": "12 crore",
+            "bidding_history": [
+                {"team": "CSK", "bid": "8 crore"},
+                {"team": "PBKS", "bid": "10 crore"},
+                {"team": "CSK", "bid": "12 crore"}
+            ]
+        },
+        "career_highlights": "Swing specialist, effective in powerplays."
+    },
+    {
+        "player_name": "Jason Holder",
+        "age": 33,
+        "role": "All-Rounder",
+        "base_price": "1.5 crore",
+        "auction_summary": {
+            "team": "Lucknow Super Giants",
+            "bid_amount": "9 crore",
+            "bidding_history": [
+                {"team": "LSG", "bid": "6 crore"},
+                {"team": "RR", "bid": "8 crore"},
+                {"team": "LSG", "bid": "9 crore"}
+            ]
+        },
+        "career_highlights": "West Indies captain, a reliable all-rounder."
+    },
+    {
+        "player_name": "Rohit Sharma",
+        "age": 36,
+        "role": "Batsman",
+        "base_price": "2 crore",
+        "auction_summary": {
+            "team": "Mumbai Indians",
+            "bid_amount": "16 crore",
+            "bidding_history": [
+                {"team": "MI", "bid": "10 crore"},
+                {"team": "DC", "bid": "14 crore"},
+                {"team": "MI", "bid": "16 crore"}
+            ]
+        },
+        "career_highlights": "Indian captain, most IPL titles as captain."
+    },
+    {
+        "player_name": "Chris Morris",
+        "age": 37,
+        "role": "All-Rounder",
+        "base_price": "2 crore",
+        "auction_summary": {
+            "team": "Rajasthan Royals",
+            "bid_amount": "16 crore",
+            "bidding_history": [
+                {"team": "RR", "bid": "12 crore"},
+                {"team": "PBKS", "bid": "15 crore"},
+                {"team": "RR", "bid": "16 crore"}
+            ]
+        },
+        "career_highlights": "Versatile South African all-rounder."
+    },
+    {
+        "player_name": "Babar Azam",
+        "age": 30,
+        "role": "Batsman",
+        "base_price": "2 crore",
+        "auction_summary": {
+            "team": "Sunrisers Hyderabad",
+            "bid_amount": "14 crore",
+            "bidding_history": [
+                {"team": "SRH", "bid": "10 crore"},
+                {"team": "RCB", "bid": "12 crore"},
+                {"team": "SRH", "bid": "14 crore"}
+            ]
+        },
+        "career_highlights": "World-class Pakistani batter."
+    },
+    {
+        "player_name": "Glenn Maxwell",
+        "age": 35,
+        "role": "All-Rounder",
+        "base_price": "2 crore",
+        "auction_summary": {
+            "team": "Royal Challengers Bangalore",
+            "bid_amount": "12 crore",
+            "bidding_history": [
+                {"team": "RCB", "bid": "8 crore"},
+                {"team": "DC", "bid": "11 crore"},
+                {"team": "RCB", "bid": "12 crore"}
+            ]
+        },
+        "career_highlights": "Explosive Australian all-rounder."
+    },
+    {
+        "player_name": "Kane Williamson",
+        "age": 34,
+        "role": "Batsman",
+        "base_price": "1.5 crore",
+        "auction_summary": {
+            "team": "Sunrisers Hyderabad",
+            "bid_amount": "10 crore",
+            "bidding_history": [
+                {"team": "SRH", "bid": "6 crore"},
+                {"team": "RCB", "bid": "9 crore"},
+                {"team": "SRH", "bid": "10 crore"}
+            ]
+        },
+        "career_highlights": "New Zealand captain, composed batter."
+    }
+]
