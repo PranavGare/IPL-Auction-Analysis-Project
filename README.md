@@ -8,4 +8,5 @@ Run in Jupyter-Notebook.
 
 <img width="911" alt="Screenshot 2024-12-07 at 11 02 46 AM" src="https://github.com/user-attachments/assets/a436afd0-fd51-4fbb-ae72-5d34acd347bf">
 
+
 Purpose : We can build a predictive model based on this analysis so that IPL Teams can gain competitive advantage.
